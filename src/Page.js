@@ -43,7 +43,7 @@ const Page = (props) => {
             fontWeight: "700"
           }}
         >
-          BeautiFul Girlz
+          BeautiFul Brandy
         </span>
         <div>
           <img
